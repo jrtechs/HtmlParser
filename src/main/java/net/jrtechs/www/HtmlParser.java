@@ -1,4 +1,6 @@
 package net.jrtechs.www;
 
-public class HtmlParser {
+public class HtmlParser
+{
+
 }
